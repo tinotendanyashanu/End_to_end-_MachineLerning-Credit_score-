@@ -1,4 +1,3 @@
-# End_to_end-_MachineLerning-Credit_score-
 
 # End-to-End Machine Learning Credit Score Prediction API
 
