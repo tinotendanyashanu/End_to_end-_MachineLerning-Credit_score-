@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/tinotendanyashanu/End_to_end-_MachineLerning-Credit_score-
     cd your-repo-name
     ```
 
